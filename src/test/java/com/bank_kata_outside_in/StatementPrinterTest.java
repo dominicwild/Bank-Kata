@@ -5,6 +5,9 @@ import static org.mockito.Mockito.verify;
 
 import java.time.LocalDate;
 
+import com.bank_kata_outside_in.external.Clock;
+import com.bank_kata_outside_in.external.Console;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

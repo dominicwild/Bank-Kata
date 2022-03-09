@@ -1,4 +1,4 @@
-package com.bank_kata_outside_in;
+package com.bank_kata_outside_in.external;
 
 public class Console {
 

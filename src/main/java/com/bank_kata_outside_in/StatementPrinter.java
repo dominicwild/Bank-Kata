@@ -8,6 +8,8 @@ import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.concurrent.atomic.AtomicInteger;
 
+import com.bank_kata_outside_in.external.Console;
+
 public class StatementPrinter {
 
     private static final DecimalFormat TWO_DECIMAL_PLACES = new DecimalFormat("#.00");
